@@ -22,4 +22,14 @@ public class UserServiceImpl implements UserService{
         userRepository.save(user);
     }
 
+    @Override
+    public void updateUser(User user){
+        userRepository.save(user);
+    }
+
+    @Override
+    public void deleteById(Integer userId) {
+        userRepository.deleteById(userId);
+    }
+
 }

@@ -23,4 +23,16 @@ public class UserController {
     public void createUser(@RequestBody User user){
         userService.createUser(user);
     }
+
+    @PutMapping("/{userId}")
+    public void updateUser(@PathVariable Integer userId, @RequestBody User user) {
+        user.setId(userId);
+        userService.updateUser(user);
+    }
+
+    @DeleteMapping("/{userId}")
+    public void deleteUser(@PathVariable Integer userId) {
+        userService.deleteById(userId);
+    }
+
 }

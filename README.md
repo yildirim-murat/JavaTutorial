@@ -10,9 +10,14 @@ Katmanlı Mimarisi
 **Kullanılan Veritabanı:**
 
 - H2 
->  curl -X POST -H "Content-Type:application/json" -d '{"name":"Murat"}' http://localhost:8080/users
+> curl -X POST -H "Content-Type:application/json" -d '{"name":"Murat"}' http://localhost:8080/users
 ---
 > curl http://localhost:8080/users/count
+---
+> curl -X DELETE http://localhost:8080/users/3
+---
+> curl -X PUT -H "Content-Type:application/json" -d '{"name":"newValue"}' http://localhost:8080/users/1
+---
 
 - PostgreSQL
 

@@ -7,4 +7,8 @@ public interface UserService {
     long getUserCount();
 
     void createUser(User user);
+
+    void updateUser(User user);
+
+    void deleteById(Integer userId);
 }
