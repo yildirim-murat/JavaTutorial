@@ -4,7 +4,6 @@
 
 ![nLayerStruc](https://github.com/yildirim-murat/JavaTutorial/assets/150040119/f6d21dc1-3104-4681-971b-401dd2c64ece)
 
-
 Katmanlı Mimarisi
 
 **Kullanılan Veritabanı:**
@@ -19,7 +18,10 @@ Katmanlı Mimarisi
 > curl -X PUT -H "Content-Type:application/json" -d '{"name":"newValue"}' http://localhost:8080/users/1
 ---
 
-- PostgreSQL
+- **PostgreSQL**
+> - Postman
+> - Console
+> - Swagger
 
 ***
 
