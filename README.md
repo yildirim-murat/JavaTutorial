@@ -2,7 +2,9 @@
 
 ### ORM Nedir? Java'da ORM
 
-![ORM.png](..%2F..%2FDownloads%2FORM.png)
+
+![ORM](https://github.com/yildirim-murat/JavaTutorial/assets/150040119/b21f7850-d866-42b6-a030-76ec4f0d8415)
+
 
 Object-Relational Mapping
 
