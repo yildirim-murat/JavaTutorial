@@ -14,7 +14,6 @@ import lombok.Setter;
 @Entity
 @Table(name="tb_user")
 public class User {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id_user", updatable = false, nullable = false)

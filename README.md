@@ -7,5 +7,16 @@
 
 Katmanlı Mimarisi
 
+**Kullanılan Veritabanı:**
+
+- H2 
+>  curl -X POST -H "Content-Type:application/json" -d '{"name":"Murat"}' http://localhost:8080/users
+---
+> curl http://localhost:8080/users/count
+
+- PostgreSQL
+
+***
+
 * [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/master)
 * [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/lesson3)

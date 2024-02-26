@@ -7,5 +7,4 @@ public interface UserService {
     long getUserCount();
 
     void createUser(User user);
-
 }
