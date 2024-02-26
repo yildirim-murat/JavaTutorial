@@ -11,7 +11,7 @@ _(Object-Relational Mapping)_
 
 ### OOP (Object Oriented Programming)
 
-![OOP.png](..%2F..%2FDownloads%2FOOP.png)
+![OOP](https://github.com/yildirim-murat/JavaTutorial/assets/150040119/42901a71-491d-473f-8e82-99a85d83ba5c)
 
 **Object** => **Class** => **Inheritence** => **Polymorphism** => **Abstraction** => **Encapsulation**
 
