@@ -1,4 +1,4 @@
-# Dördüncü Ders
+# Üçüncü Ders
 
 ### ORM Nedir? Java'da ORM
 
@@ -6,6 +6,5 @@
 
 Object-Relational Mapping
 
-
-* [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/lesson2)
-* [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/lesson4)
+* [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/ucuncuDers)
+* [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/sonDers)
