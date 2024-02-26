@@ -4,7 +4,7 @@
 
 ![nLayerStruc](https://github.com/yildirim-murat/JavaTutorial/assets/150040119/f6d21dc1-3104-4681-971b-401dd2c64ece)
 
-Katmanlı Mimarisi
+Katmanlı Mimari
 
 **Kullanılan Veritabanı:**
 
