@@ -7,8 +7,5 @@
 
 Katmanlı Mimarisi
 
-
-For further reference, please consider the following sections:
-
 * [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/master)
 * [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/lesson3)
