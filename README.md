@@ -6,5 +6,5 @@
 
 Object-Relational Mapping
 
-* [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/ucuncuDers)
+* [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/ikinciDers)
 * [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/sonDers)
