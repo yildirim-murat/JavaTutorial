@@ -21,7 +21,6 @@ Katmanlı Mimarisi
 - **PostgreSQL**
 > - Postman
 > - Console
-> - Swagger
 
 ***
 
