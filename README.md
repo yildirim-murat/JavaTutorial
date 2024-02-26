@@ -1,4 +1,4 @@
-# İkinci Ders
+# Dördüncü Ders
 
 ### nLayer Structure
 
@@ -24,5 +24,4 @@ Katmanlı Mimarisi
 
 ***
 
-* [Önceki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/master)
-* [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/lesson3)
+* [Sonraki Ders](https://github.com/yildirim-murat/JavaTutorial/tree/ucuncuDers)
