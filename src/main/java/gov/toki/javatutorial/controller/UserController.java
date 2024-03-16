@@ -5,6 +5,8 @@ import gov.toki.javatutorial.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RequiredArgsConstructor
 
 @CrossOrigin(origins = "localhost:3000")
@@ -35,4 +37,13 @@ public class UserController {
         userService.deleteById(userId);
     }
 
+    @GetMapping("/get-list")
+    public List<User> getList(){
+        return userService.getListUser();
+    }
+
+    @GetMapping("/get-user/{userName}")
+    public List<User> getUserName(@PathVariable String userName) {
+        return userService.getUserUserName(userName);
+    }
 }

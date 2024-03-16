@@ -6,6 +6,8 @@ import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 @Transactional
 @RequiredArgsConstructor
@@ -30,6 +32,16 @@ public class UserServiceImpl implements UserService{
     @Override
     public void deleteById(Integer userId) {
         userRepository.deleteById(userId);
+    }
+
+    @Override
+    public List<User> getListUser() {
+        return userRepository.findAll();
+    }
+
+    @Override
+    public List<User> getUserUserName(String username) {
+        return userRepository.getAllByName(username);
     }
 
 }
