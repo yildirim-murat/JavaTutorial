@@ -17,4 +17,6 @@ public interface UserService {
     List<User> getListUser();
 
     List<User> getUserUserName(String username);
+
+    List<User> getCustomQuery();
 }

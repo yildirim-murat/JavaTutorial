@@ -44,4 +44,9 @@ public class UserServiceImpl implements UserService{
         return userRepository.getAllByName(username);
     }
 
+    @Override
+    public List<User> getCustomQuery(){
+        return userRepository.getCustomQuery();
+    }
+
 }

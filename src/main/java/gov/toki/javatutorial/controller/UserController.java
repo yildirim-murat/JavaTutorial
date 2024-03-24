@@ -46,4 +46,9 @@ public class UserController {
     public List<User> getUserName(@PathVariable String userName) {
         return userService.getUserUserName(userName);
     }
+
+    @GetMapping("/custom")
+    public List<User> getCustomList(){
+        return userService.getCustomQuery();
+    }
 }
